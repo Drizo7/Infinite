@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Events from February 21 &#8211; February 21 &#8211; Infinite Solutions</title>
+	<atom:link href="/upcomingtrainings/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discover the world through Infinite Solutions</description>
+	<lastBuildDate>Fri, 16 Feb 2024 13:10:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/icon-park-positive-dynamics.png</url>
+	<title>Events from February 21 &#8211; February 21 &#8211; Infinite Solutions</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ICT Training</title>
+		<link>/upcomingtrainings/ict-training/</link>
+					<comments>/upcomingtrainings/ict-training/#respond</comments>
+		
+		<dc:creator><![CDATA[Adrian]]></dc:creator>
+		<pubDate>Wed, 21 Feb 2024 08:00:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=tribe_events#038;p=202</guid>
+
+					<description><![CDATA[We will be offering an ICT Training on the 21st january at sunbird mount soche hotel. Come Join Us]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-240" src="/wp-content/uploads/2024/02/jan-flyer-2.jpg" alt="" width="2100" height="2100" /></p>
+<p>We will be offering an ICT Training on the 21st january at sunbird mount soche hotel. Come Join Us</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/upcomingtrainings/ict-training/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
