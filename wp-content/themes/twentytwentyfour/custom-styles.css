@@ -1,0 +1,100 @@
+/* Styles for elements with the `my-custom-class` class */
+
+    /* Responsinve styles for phones */
+    @media (max-width: 767px) {
+        .backg {
+            
+        }
+    }
+
+    /* Styles for tablets */
+    @media (min-width: 768px) and (max-width: 991px) {
+        .wp-block-group.has-contrast-color.has-text-color.has-background.has-link-color{
+           padding-left: 20% !important; 
+           margin-bottom: 10% !important;
+           position: relative !important;
+        }
+        .group{
+            background-color: #F9F9F9 !important;
+        }
+        .backg {
+            max-width: 70% !important;
+            margin-top: -150px !important;
+            position: absolute !important;
+        }
+        .bg {
+            padding: 5% !important;
+        }
+        .group2{
+            background-color: #F9F9F9 !important;
+        }
+        .backc{
+            max-width: 70% !important;
+            margin-top: -150px !important;
+            position: absolute !important;
+        }
+        .bc{
+            padding: 5% !important;
+        }
+    }
+    @media (min-width: 992px) and (max-width: 1336px) {
+        .wp-block-group.has-contrast-color.has-text-color.has-background.has-link-color{
+           padding-left: 30% !important; 
+           margin-bottom: 10% !important;
+           position: relative !important;
+        }
+        .group{
+            background-color: #F9F9F9 !important;
+        }
+        .backg {
+            max-width: 75% !important;
+            margin-top: -150px !important;
+            position: absolute !important;
+        }
+        
+        .bg {
+            padding: 5% !important;
+        }
+        .group2{
+            background-color: #F9F9F9 !important;
+        }
+        .backc{
+            max-width: 75% !important;
+            margin-top: -150px !important;
+            position: absolute !important;
+        }
+        .bc{
+            padding: 5% !important;
+        }
+    }
+
+    /* Styles for desktops */
+    @media (min-width: 1337px) {
+        .wp-block-group.has-contrast-color.has-text-color.has-background.has-link-color{
+            padding-left: 40% !important;
+            margin-bottom: 10% !important;
+            position: relative !important;
+        }
+        .group{
+            background-color: #F9F9F9 !important;
+        }
+        .backg {
+            max-width: 80% !important;
+            margin-top: -150px !important;
+            position: absolute !important;
+        }
+        .bg {
+            padding: 5% !important;
+        }
+        .group2{
+            background-color: #F9F9F9 !important;
+        }
+        .backc{
+            max-width: 80% !important;
+            margin-top: -150px !important;
+            position: absolute !important;
+        }
+        .bc{
+            padding: 5% !important;
+        }
+    }
